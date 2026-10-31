@@ -1,0 +1,16 @@
+
+{
+  "name": "whatsapp-bot-starter",
+  "version": "1.0.0",
+  "description": "Starter WhatsApp bot dengan menu, ping, dan info",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.18",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
